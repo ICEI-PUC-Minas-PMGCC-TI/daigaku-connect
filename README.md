@@ -1,6 +1,6 @@
 # Daigaku Connect
 
-Daigaku Connect is a FOSS (Free and Open-Source Software) project that aims to provide decentralized and efficient communication for project management within the university environment.
+Daigaku Connect is a libre software project that aims to provide decentralized and efficient communication for projects management within the university environment.
 
 ## Students in the team
 
