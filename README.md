@@ -1,18 +1,20 @@
 # Daigaku Connect
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+Daigaku Connect is a FOSS (Free and Open-Source Software) project that aims to provide decentralized and efficient communication for project management within the university environment.
 
-## Alunos integrantes da equipe
+## Students in the team
 
 Davi 
 Harper Moreira Mascarenhas
 Gabriel Anderson
 
-## Professores responsáveis
+## Responsibles professors
 
 * Nome completo do professor 1
 * Nome completo do professor 2
 
-## Instruções de utilização
+## Usage guide
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
+## Contribution Guidelines
