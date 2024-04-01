@@ -4,7 +4,7 @@ Daigaku Connect is a libre software project that aims to provide decentralized, 
 
 ## Students in the team
 
-Davi 
+Davi Cândido de Almeida
 
 Harper Moreira Mascarenhas
 
@@ -12,7 +12,7 @@ Gabriel Anderson
 
 ## Responsibles professors
 
-* Nome completo do professor 1
+* Hayala Nepomuceno Curto
 * Nome completo do professor 2
 
 ## Usage guide
