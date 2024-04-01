@@ -1,11 +1,13 @@
 # Daigaku Connect
 
-Daigaku Connect is a libre software project that aims to provide decentralized and efficient communication for projects management within the university environment.
+Daigaku Connect is a libre software project that aims to provide decentralized, safe and efficient communication for projects management within the university environment (since we're being forced to use Microsoft services 24/7).
 
 ## Students in the team
 
 Davi 
+
 Harper Moreira Mascarenhas
+
 Gabriel Anderson
 
 ## Responsibles professors
