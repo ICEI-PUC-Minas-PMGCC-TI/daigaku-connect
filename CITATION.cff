@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: 
+message: "If you use this software, please cite as below."
+title: "Daigaku Connect"
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+  - family-names: Mascarenhas
+    given-names: Harper
+  - family-names: Candido
+    given-names: Davi
+  - family-names: Anderson
+    given-names: Gabriel
   - family-names: 
     given-names: 
   - family-names: 
@@ -24,42 +23,9 @@ authors:
     family-names: 
     given-names: 
 keywords:
-  - 
-  - 
-repository-code: 
-license: CC-BY-4.0
-version: 1.0.0
-date-released: 2022-07-14
-=======
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: 
-authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
-keywords:
-  - 
+  - "
   - 
 repository-code: 
-license: CC-BY-4.0
+license: GNU GPL 3.0
 version: 1.0.0
-date-released: 2022-07-14
->>>>>>> 576e4073eb686b7caee5801aac8f95491eb4d605
+date-released: "unreleased"
