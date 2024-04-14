@@ -1,0 +1,29 @@
+Homepage
+ ❘
+ ❘-Login
+ ❘
+ ❘-Signup
+ ❘
+ ❘-About us
+ ❘ ❘
+ ❘ ❘-Mission
+ ❘ ❘
+ ❘ ❘-Contribute
+ ❘ ❘
+ ❘ ❘-Support
+ ❘
+ Dashboard*
+ ❘ 
+ ❘-Profile
+ ❘ ❘
+ ❘ ❘-Portfolio/CV
+ ❘ ❘
+ ❘ ❘-Contact
+ ❘
+ ❘-Project screen
+   ❘
+   ❘-Project Info
+   ❘
+   ❘-Join project
+
+   *our intention is to display a distinct homepage for logged users, with a dashboard similitar to what github 
