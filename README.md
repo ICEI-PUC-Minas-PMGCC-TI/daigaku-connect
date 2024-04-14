@@ -1,20 +1,20 @@
+
+
 # Daigaku Connect
 
-Daigaku Connect is a libre software project that aims to provide decentralized, safe and efficient communication for project management within the university environment.
+![](https://github.com/ICEI-PUC-Minas-PMGCC-TI/daigaku-connect/blob/main/source/logo.png?raw=true)
 
-## Students in the team
+A libre software project that aims to provide free (as in freedom), safe and efficient communication for project management within the university environment.
 
-* Davi Cândido de Almeida
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) 
 
-* Harper Moreira Mascarenhas
+## Authors
 
-* Gabriel Anderson
+- [Davi Cândido de Almeida](https://github.com/DaviKandido)
+- [Harper Moreira Mascarenhas](https://github.com/harperbolic)
+- Gabriel Anderson
 
 ## Responsibles professors
 
 * Hayala Nepomuceno Curto
-* Nome completo do professor 2
-
-## Usage guide
-
-[WIP] will be avaiable when first version get released!
+* 
