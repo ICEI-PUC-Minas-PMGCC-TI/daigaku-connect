@@ -1,6 +1,5 @@
-cff-version: 1.0.1
+cff-version: 1.2.0
 message: "If you use this software, please cite as below."
-title: "Daigaku Connect"
 authors:
   - family-names: Mascarenhas
     given-names: Harper
@@ -8,12 +7,6 @@ authors:
     given-names: Davi
   - family-names: Anderson
     given-names: Gabriel
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: 
@@ -22,10 +15,8 @@ authors:
     affiliation: PUC Minas
     family-names: 
     given-names: 
-keywords:
-  - "
-  - 
-repository-code: 
-license: GNU GPL 3.0
+title: "Daigaku Connect"
 version: 1.0.0
-date-released: "unreleased"
+license: GNU GPL 3.0
+date-released: 2024-04-14
+url: "https://github.com/ICEI-PUC-Minas-PMGCC-TI/daigaku-connect"
