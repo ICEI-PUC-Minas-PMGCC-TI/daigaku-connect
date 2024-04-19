@@ -12,7 +12,8 @@ A libre software project that aims to provide free (as in freedom), safe and eff
 
 - [Davi Cândido de Almeida](https://github.com/DaviKandido)
 - [Harper Moreira Mascarenhas](https://github.com/harperbolic)
-- Gabriel Anderson
+- [Gabriel Anderson](https://github.com/gonafritas)
+
 
 ## Responsibles professors
 
