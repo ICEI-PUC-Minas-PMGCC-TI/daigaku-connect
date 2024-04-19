@@ -18,4 +18,4 @@ A libre software project that aims to provide free (as in freedom), safe and eff
 ## Responsibles professors
 
 * Hayala Nepomuceno Curto
-* 
+* Carlos Alberto Marques Pietrobon
